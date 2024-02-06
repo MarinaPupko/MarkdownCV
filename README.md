@@ -49,5 +49,5 @@ photography
 design_
 
 __CONTACTS__
-: mail: _marinapupko1530@gmail.com_
+: _marinapupko1530@gmail.com_
 [_LinkedIn account_](https://linkedin.com/in/marina-pupko/)
