@@ -1,7 +1,7 @@
 # MarkdownCV
 ![Marina Pupko](logo.png)
-__JavaScript developer__
-Motivated and responsible beginner developer with an orientation towards teamwork. Quick to learn and adapt to new technologies and programming languages. Have excellent communication skills and a keen eye for detail, ensuring high-quality work. Possess perseverance, a drive for perfectionism, and a craving to explore new concepts and technologies.
+##### JavaScript developer
+##### Motivated and responsible beginner developer with an orientation towards teamwork. Quick to learn and adapt to new technologies and programming languages. Have excellent communication skills and a keen eye for detail, ensuring high-quality work. Possess perseverance, a drive for perfectionism, and a craving to explore new concepts and technologies.
 ---
 __SKILLS__
 >C++ 
