@@ -1,5 +1,5 @@
 # MarkdownCV
-![Marina Pupko](https://github.com/MarinaPupko/MarkdownCV/blob/main/logo.PNG)
+![Marina Pupko](logo.PNG)
 # Marina Pupko
 ##### JavaScript developer
 ##### Motivated and responsible beginner developer with an orientation towards teamwork. Quick to learn and adapt to new technologies and programming languages. Have excellent communication skills and a keen eye for detail, ensuring high-quality work. Possess perseverance, a drive for perfectionism, and a craving to explore new concepts and technologies.
