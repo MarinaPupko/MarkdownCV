@@ -48,4 +48,6 @@ teach
 photography 
 design_
 
-
+CONTACTS
+ _marinapupko1530@gmail.ru_
+[_LinkedIn account_](https://linkedin.com/in/marina-pupko/)
